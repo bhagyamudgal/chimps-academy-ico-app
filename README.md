@@ -7,7 +7,7 @@ Chimps Academy ICO app.
 
 **Link to Smart Contract repository -** https://github.com/bhagyamudgal/chimps-academy-ico-contract
 
-**My Portfolio Website -** https://www.bhagyamudgal.me/
+**My Portfolio Website -** https://www.bhagyamudgal.com/
 
 
 
